@@ -1,6 +1,8 @@
 # awesome-ux-engineer
 
-A repository of resources and knowledge for and about UX Engineers
+A dedicated repository of resources and knowledge for and about UX Engineers. 
+
+It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Engineers, Web Developers, Mobile Developers, Desktop Developers, Full-Stack Engineers, Product Engineers, Product Designers, Managers, Directors, Technologist, or anyone interested in the UX Engineering field, but mainly, in the UX Engineer role concept.
 
 ## Dedicated Websites
 
