@@ -11,7 +11,6 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 
 ## Articles
 
-- [What Is a UX Engineer? And How to Become One](https://www.coursera.org/articles/what-is-a-ux-engineer) by coursera
 - [Who is a UX Engineer Specifically?](https://www.uxpin.com/studio/blog/ux-engineer/) by UXPin
 - [What Does a UX Engineer Do, Exactly? A Little Bit of Everything](https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739) by Google Design Blog
 - [A Day in the Life of Kevin Lozandier, UX Engineer at Google](https://blog.adobe.com/en/publish/2018/01/31/day-life-ux-designer-kevin-lozandier-ux-engineer-google) by Adobe Blog
@@ -22,6 +21,14 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 - [What is the Difference Between UX Engineer and UX Designer?](https://www.uxpin.com/studio/blog/ux-engineer-vs-ux-designer/) by UXPin
 - [DIFFERENCE BETWEEN UI/UX DESIGNER AND UI/UX ENGINEER](https://medium.com/@kalyanicynixit/difference-between-ui-ux-designer-and-ui-ux-engineer-117f1b94db9d) by Kalyanicynixit
 - [UX Engineer vs. UX Designer: The Difference](https://worldfinancialreview.com/ux-engineer-vs-ux-designer-the-difference/) by The World Financial Review
+- [UX Engineer vs UX Designer. Who’s Better in 2022?](https://www.linkedin.com/pulse/ux-engineer-vs-designer-whos-better-2022-enou-co/?trk=pulse-article) by ENOU Labs
+- [What It Takes to Be a UX Engineer at Google](https://www.fullstackacademy.com/blog/what-it-takes-to-be-a-ux-engineer-at-google) by Fullstack Academy
+
+## Videos
+
+- [What is a UX Engineer? 🤔](https://www.youtube.com/watch?v=D8EEZlmqLrE) by Cristóbal Chao
+- [Meet UX Engineers at Google](https://www.youtube.com/watch?v=D0ga7_HEfXs) by Life at Google
+- [UX Engineering at Google](https://www.youtube.com/watch?v=I9xi9KSHlLA) by Blair Metcalf
 
 ## Community Questions
 
@@ -38,3 +45,10 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 ## Conceptual Resources
 
 - [Laws of UX](https://lawsofux.com/) - A collection of best practices that UX people can consider when building user interfaces.
+
+## Learning Paths
+
+- [MSc User Experience Engineering](https://www.gold.ac.uk/pg/msc-user-experience-engineering/) at Goldsmiths University of London
+- [What Is a UX Engineer? And How to Become One](https://www.coursera.org/articles/what-is-a-ux-engineer) by Coursera
+- [UX Engineering Process](https://www.pluralsight.com/courses/lean-front-end-engineering) by Pluralsight
+- [User Experience Engineering](https://pll.harvard.edu/course/user-experience-engineering-1) at Harvard University
