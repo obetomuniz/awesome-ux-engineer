@@ -33,12 +33,11 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 - [UX Engineering at Google](https://www.youtube.com/watch?v=I9xi9KSHlLA) by Blair Metcalf
 - [Ford UX: Engineering Meets Design Thinking](https://www.youtube.com/watch?v=xRKjJFzFt1g) by James Forbes
 
-## Community Questions
+## Community
 
 - [What does a UX Engineer do at Google?](https://www.quora.com/What-does-a-UX-Engineer-do-at-Google)
 - [How does a UX Engineer differ from a Ux Designer?](https://www.quora.com/How-does-a-UX-Engineer-differ-from-a-Ux-Designer)
 - [UX Designer vs. UX Engineer? What are your thoughts on the difference?](https://www.reddit.com/r/UXDesign/comments/wjdxpk/ux_designer_vs_ux_engineer_what_are_your_thoughts/)
-- 
 
 ## Jobs
 
@@ -57,3 +56,7 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 ## Conceptual Resources
 
 - [Laws of UX](https://lawsofux.com/) - A collection of best practices that UX people can consider when building user interfaces.
+
+## Other Materials
+
+- [UX Engineers Helper](https://github.com/knibba/ux-engineering) - A hand picked list of awesome resources & tutorials for ux engineers, designers & front-end developers.
