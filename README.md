@@ -59,4 +59,4 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 
 ## Other Materials
 
-- [UX Engineers Helper](https://github.com/knibba/ux-engineering) - A hand picked list of awesome resources & tutorials for ux engineers, designers & front-end developers.
+- [UX Engineers Helper](https://github.com/knibba/ux-engineering) - A hand picked list of awesome tools & tutorials for ux engineers, designers & front-end developers.
