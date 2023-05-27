@@ -18,14 +18,14 @@ A repository of resources and knowledge for and about UX Engineers
 
 ## Dedicated Websites
 
-- [uxengineer.com](https://uxengineer.com/) - A dedicated website with Articles & Jobs about UXE
-- [uxe.withgoogle.com](https://uxe.withgoogle.com/) by Google
+- [uxengineer.com](https://uxengineer.com/)
+- [uxe.withgoogle.com](https://uxe.withgoogle.com/)
 
-## Community
+## Community Questions
 
-- [What does a UX Engineer do at Google?](https://www.quora.com/What-does-a-UX-Engineer-do-at-Google) question on Quora 
-- [How does a UX Engineer differ from a Ux Designer?](https://www.quora.com/How-does-a-UX-Engineer-differ-from-a-Ux-Designer) question on Quora
-- [UX Designer vs. UX Engineer? What are your thoughts on the difference?](https://www.reddit.com/r/UXDesign/comments/wjdxpk/ux_designer_vs_ux_engineer_what_are_your_thoughts/) question on `r/UXDesign` Reddit
+- [What does a UX Engineer do at Google?](https://www.quora.com/What-does-a-UX-Engineer-do-at-Google)
+- [How does a UX Engineer differ from a Ux Designer?](https://www.quora.com/How-does-a-UX-Engineer-differ-from-a-Ux-Designer)
+- [UX Designer vs. UX Engineer? What are your thoughts on the difference?](https://www.reddit.com/r/UXDesign/comments/wjdxpk/ux_designer_vs_ux_engineer_what_are_your_thoughts/)
 - 
 
 ## Jobs
