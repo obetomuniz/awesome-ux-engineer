@@ -2,6 +2,11 @@
 
 A repository of resources and knowledge for and about UX Engineers
 
+## Dedicated Websites
+
+- [uxengineer.com](https://uxengineer.com/)
+- [uxe.withgoogle.com](https://uxe.withgoogle.com/)
+
 ## Articles
 
 - [What Is a UX Engineer? And How to Become One](https://www.coursera.org/articles/what-is-a-ux-engineer) by coursera
@@ -15,11 +20,6 @@ A repository of resources and knowledge for and about UX Engineers
 - [What is the Difference Between UX Engineer and UX Designer?](https://www.uxpin.com/studio/blog/ux-engineer-vs-ux-designer/) by UXPin
 - [DIFFERENCE BETWEEN UI/UX DESIGNER AND UI/UX ENGINEER](https://medium.com/@kalyanicynixit/difference-between-ui-ux-designer-and-ui-ux-engineer-117f1b94db9d) by Kalyanicynixit
 - [UX Engineer vs. UX Designer: The Difference](https://worldfinancialreview.com/ux-engineer-vs-ux-designer-the-difference/) by The World Financial Review
-
-## Dedicated Websites
-
-- [uxengineer.com](https://uxengineer.com/)
-- [uxe.withgoogle.com](https://uxe.withgoogle.com/)
 
 ## Community Questions
 
