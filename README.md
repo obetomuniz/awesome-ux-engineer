@@ -49,9 +49,9 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 - [MSc User Experience Engineering](https://www.gold.ac.uk/pg/msc-user-experience-engineering/) at Goldsmiths University of London
 - [What Is a UX Engineer? And How to Become One](https://www.coursera.org/articles/what-is-a-ux-engineer) by Coursera
 - [UX Engineering Process](https://www.pluralsight.com/courses/lean-front-end-engineering) by Pluralsight
-- [User Experience Engineering](https://pll.harvard.edu/course/user-experience-engineering-1) at Harvard University
-- [User Experience (UX) Fundamentals Tutorial](https://www.udemy.com/course/introtoux/) at Udemy
-- [Personas in User Interface Engineering](https://www.udemy.com/course/personas-in-user-interface-engineering/) at Udemy
+- [User Experience Engineering](https://pll.harvard.edu/course/user-experience-engineering-1) by Harvard University
+- [User Experience (UX) Fundamentals Tutorial](https://www.udemy.com/course/introtoux/) by Udemy
+- [Personas in User Interface Engineering](https://www.udemy.com/course/personas-in-user-interface-engineering/) by Udemy
 
 ## Conceptual Resources
 
