@@ -42,13 +42,13 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 - [careers.google.com](https://careers.google.com/jobs/results/?q=ux%20engineer)
 - [uxengineer.com/jobs](https://uxengineer.com/jobs/)
 
-## Conceptual Resources
-
-- [Laws of UX](https://lawsofux.com/) - A collection of best practices that UX people can consider when building user interfaces.
-
 ## Learning Paths
 
 - [MSc User Experience Engineering](https://www.gold.ac.uk/pg/msc-user-experience-engineering/) at Goldsmiths University of London
 - [What Is a UX Engineer? And How to Become One](https://www.coursera.org/articles/what-is-a-ux-engineer) by Coursera
 - [UX Engineering Process](https://www.pluralsight.com/courses/lean-front-end-engineering) by Pluralsight
 - [User Experience Engineering](https://pll.harvard.edu/course/user-experience-engineering-1) at Harvard University
+
+## Conceptual Resources
+
+- [Laws of UX](https://lawsofux.com/) - A collection of best practices that UX people can consider when building user interfaces.
