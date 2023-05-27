@@ -2,7 +2,7 @@
 
 A dedicated repository of resources and knowledge for and about UX Engineers. 
 
-It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Engineers, Web Developers, Mobile Developers, Desktop Developers, Full-Stack Engineers, Product Engineers, Product Designers, Managers, Directors, Technologist, or anyone interested in the UX Engineering field, but mainly, in the UX Engineer role concept.
+It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Engineers, Web Developers, Mobile App Developers, Desktop App Developers, Full-Stack Engineers, Product People, Managers, Directors, Technologists, or anyone interested in the UX Engineering field, but mainly, in the UX Engineer role concept.
 
 ## Dedicated Websites
 
