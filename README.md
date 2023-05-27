@@ -13,6 +13,7 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 
 - [What Does a UX Engineer Do, Exactly? A Little Bit of Everything](https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739) by Google Design Blog
 - [A Day in the Life of Kevin Lozandier, UX Engineer at Google](https://blog.adobe.com/en/publish/2018/01/31/day-life-ux-designer-kevin-lozandier-ux-engineer-google) by Adobe Blog
+- [UX engineers add great value to the design process](https://medium.com/design-ibm/ux-engineers-add-great-value-to-the-design-process-9555c1fe3b89) by IBM Design Blog
 - [What is a UX Engineer? User Experience Engineer Role Explained](https://www.freecodecamp.org/news/what-is-a-ux-engineer/) by freeCodeCamp
 - [Who is a UX Engineer Specifically?](https://www.uxpin.com/studio/blog/ux-engineer/) by UXPin
 - [20 Skills Needed to Become a UX Engineer in 2023](https://uxengineer.com/skills-needed-become-a-ux-engineer/) by UX Engineer Website
@@ -23,12 +24,14 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 - [UX Engineer vs. UX Designer: The Difference](https://worldfinancialreview.com/ux-engineer-vs-ux-designer-the-difference/) by The World Financial Review
 - [UX Engineer vs UX Designer. Who’s Better in 2022?](https://www.linkedin.com/pulse/ux-engineer-vs-designer-whos-better-2022-enou-co/?trk=pulse-article) by ENOU Labs
 - [What It Takes to Be a UX Engineer at Google](https://www.fullstackacademy.com/blog/what-it-takes-to-be-a-ux-engineer-at-google) by Fullstack Academy
+- [Opinion & Prototyping: Advanced Interaction with Code](https://medium.com/@cordovaputra/2-design-thinking-in-ux-engineering-1f047898020e) by cordovaputra
 
 ## Videos
 
 - [What is a UX Engineer? 🤔](https://www.youtube.com/watch?v=D8EEZlmqLrE) by Cristóbal Chao
 - [Meet UX Engineers at Google](https://www.youtube.com/watch?v=D0ga7_HEfXs) by Life at Google
 - [UX Engineering at Google](https://www.youtube.com/watch?v=I9xi9KSHlLA) by Blair Metcalf
+- [Ford UX: Engineering Meets Design Thinking](https://www.youtube.com/watch?v=xRKjJFzFt1g) by James Forbes
 
 ## Community Questions
 
@@ -48,6 +51,8 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 - [What Is a UX Engineer? And How to Become One](https://www.coursera.org/articles/what-is-a-ux-engineer) by Coursera
 - [UX Engineering Process](https://www.pluralsight.com/courses/lean-front-end-engineering) by Pluralsight
 - [User Experience Engineering](https://pll.harvard.edu/course/user-experience-engineering-1) at Harvard University
+- [User Experience (UX) Fundamentals Tutorial](https://www.udemy.com/course/introtoux/) at Udemy
+- [Personas in User Interface Engineering](https://www.udemy.com/course/personas-in-user-interface-engineering/) at Udemy
 
 ## Conceptual Resources
 
