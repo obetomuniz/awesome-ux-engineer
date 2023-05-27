@@ -11,10 +11,10 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 
 ## Articles
 
-- [Who is a UX Engineer Specifically?](https://www.uxpin.com/studio/blog/ux-engineer/) by UXPin
 - [What Does a UX Engineer Do, Exactly? A Little Bit of Everything](https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739) by Google Design Blog
 - [A Day in the Life of Kevin Lozandier, UX Engineer at Google](https://blog.adobe.com/en/publish/2018/01/31/day-life-ux-designer-kevin-lozandier-ux-engineer-google) by Adobe Blog
 - [What is a UX Engineer? User Experience Engineer Role Explained](https://www.freecodecamp.org/news/what-is-a-ux-engineer/) by freeCodeCamp
+- [Who is a UX Engineer Specifically?](https://www.uxpin.com/studio/blog/ux-engineer/) by UXPin
 - [20 Skills Needed to Become a UX Engineer in 2023](https://uxengineer.com/skills-needed-become-a-ux-engineer/) by UX Engineer Website
 - [What is a UX Engineer?](https://uxengineer.com/about-ux-engineer-uxe/) by UX Engineer Website
 - [UXE: What Is a UX Engineer?](https://devmountain.com/blog/uxe-what-is-a-ux-engineer/) by DEVMOUNTAIN
