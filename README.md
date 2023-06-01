@@ -25,6 +25,7 @@ It's also for UI/UX Designers, UX Researchers, Front-End Engineers, Back-End Eng
 - [UX Engineer vs UX Designer. Who’s Better in 2022?](https://www.linkedin.com/pulse/ux-engineer-vs-designer-whos-better-2022-enou-co/?trk=pulse-article) by ENOU Labs
 - [What It Takes to Be a UX Engineer at Google](https://www.fullstackacademy.com/blog/what-it-takes-to-be-a-ux-engineer-at-google) by Fullstack Academy
 - [Opinion & Prototyping: Advanced Interaction with Code](https://medium.com/@cordovaputra/2-design-thinking-in-ux-engineering-1f047898020e) by cordovaputra
+- [UX: Best Practices For Developers](https://blog.openreplay.com/ux-best-practices-for-developers/) by OpenReplay Blog
 
 ## Videos
 
